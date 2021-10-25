@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hi There, I'm Jean Lima 👋
 
-<!--
-**jeanlr16/jeanlr16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- About -->
+
+🚀 About me
+
+- 🔭 I’m currently working as Data Analyst [@UpBrasil](https://www.linkedin.com/company/up-brasil)
+- 🌱 I’m currently learning Backend Development at [@Rocketseat](https://github.com/rocketseat-education)
+- 💻 Back-end Developer Student Node.js
+- 👨‍🎓 Graduated in Business Administration
+<br>
+<br>
+
+
+📬 Contact
+
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jeanrodovalho16@gmail.com)
+[![linked-in](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jeanlimarodovalho)
+<br>
+<br>
+
+
+## 📈 **My GitHub Stats:**
+
+<!-- Stats -->
+<p align="center">
+    <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanlr16&theme=dracula&show_icons=true" alt="jeanlr16"/>
+    <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanlr16&theme=dracula&layout=compact" alt="jeanlr16" />
+</p>
+
