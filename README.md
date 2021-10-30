@@ -7,8 +7,7 @@
 🚀 About me
 
 - 🔭 I’m currently working as Data Analyst [@UpBrasil](https://www.linkedin.com/company/up-brasil)
-- 🌱 I’m currently learning Backend Development at [@Rocketseat](https://github.com/rocketseat-education)
-- 💻 Back-end Developer Student Node.js
+- 🌱 I’m currently learning Data Science, Suite Pentaho, Analytics Cloud.
 - 👨‍🎓 Graduated in Business Administration
 <br>
 <br>
