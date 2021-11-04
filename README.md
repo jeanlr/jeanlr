@@ -12,6 +12,13 @@
 <br>
 <br>
 
+## 📈 **My Projects With Data Science:**
+
+- Link para os projetos: https://bityli.com/DT8bU2
+
+<br>
+<br>
+
 
 📬 Contact
 
