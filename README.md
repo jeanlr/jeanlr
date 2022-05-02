@@ -1,4 +1,4 @@
-# Hi There, I'm Jean Lima 👋
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Jean!</h1>
 
 
 
@@ -7,18 +7,24 @@
 🚀 About me
 
 - 🔭 I’m currently working as Data Analyst [@UpBrasil](https://www.linkedin.com/company/up-brasil)
-- 🌱 I’m currently learning Data Science, Analytics Cloud
+- 🌱  I’m always studying **Html, Css, JavaScript, ReactJS, NodeJS**
 - 👨‍🎓 Graduated in Business Administration
-<br>
-<br>
-
-## 📈 **My Projects With Data Science:**
-
-- Link para os projetos: https://bityli.com/DT8bU2
 
 <br>
+
+
 <br>
 
+## 🛠 &nbsp;Tech Stack
+
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+
+<br>
+<br>
 
 📬 Contact
 
@@ -33,6 +39,5 @@
 <!-- Stats -->
 <p align="center">
     <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanlr16&theme=dracula&show_icons=true" alt="jeanlr16"/>
-    <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanlr16&theme=dracula&layout=compact" alt="jeanlr16" />
 </p>
 
