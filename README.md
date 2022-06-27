@@ -7,7 +7,7 @@
 🚀 About me
 
 - 🔭 I’m currently working as Data Analyst [@UpBrasil](https://www.linkedin.com/company/up-brasil)
-- 🌱  I’m always studying **Html, Css, JavaScript, ReactJS, NodeJS**
+- 🌱  I’m always studying **NodeJS, Typescript**
 - 👨‍🎓 Graduated in Business Administration
 
 <br>
@@ -17,11 +17,8 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 
 <br>
 <br>
@@ -33,11 +30,4 @@
 <br>
 <br>
 
-
-## 📈 **My GitHub Stats:**
-
-<!-- Stats -->
-<p align="center">
-    <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanlr16&theme=dracula&show_icons=true" alt="jeanlr16"/>
-</p>
 
