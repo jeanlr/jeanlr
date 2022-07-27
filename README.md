@@ -7,7 +7,7 @@
 🚀 About me
 
 - 🔭 I’m currently working as Data Analyst [@UpBrasil](https://www.linkedin.com/company/up-brasil)
-- 🌱  I’m always studying **NodeJS, Typescript**
+- 🌱  I’m always studying **Data Science, Python, Sql ...**
 - 👨‍🎓 Graduated in Business Administration
 
 <br>
@@ -17,8 +17,8 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-green)&nbsp;
 
 <br>
 <br>
