@@ -7,7 +7,7 @@
 🚀 About me
 
 - 🔭 I’m currently working as Data Analyst [@UpBrasil](https://www.linkedin.com/company/up-brasil)
-- 🌱  I’m always studying **Machine Learning, Sql, Python...**
+- 🌱  I’m always studying **Power BI, Sql, Python...**
 - 👨‍🎓 Graduated in Business Administration
 
 <br>
