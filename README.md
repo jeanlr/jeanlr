@@ -1,4 +1,4 @@
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Jean!</h1>
+<h1 align="left">Olá, eu sou o Jean!</h1>
 
 
 
@@ -7,8 +7,9 @@
 🚀 About me
 
 - 🔭 I’m currently working as Data Analyst [@UpBrasil](https://www.linkedin.com/company/up-brasil)
-- 🌱  I’m always studying **Power BI, Sql, Python...**
+- 🌱  I’m always studying **Data Science...**
 - 👨‍🎓 Graduated in Business Administration
+
 
 <br>
 
