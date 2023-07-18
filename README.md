@@ -4,34 +4,37 @@
 
 <!-- About -->
 
-🚀 About me
+🚀 Sobre
 
-- 🔭 I’m currently working as Data Analyst [@UpBrasil](https://www.linkedin.com/company/up-brasil)
-- 🌱  I’m always studying **Data Science...**
-- 👨‍🎓 Graduated in Business Administration
-
-
-<br>
+- 🔭  Atualmente trabalho como analista de PCP em [@UpBrasil](https://www.linkedin.com/company/up-brasil)
+-  :man_technologist:   Sou um profissional que consegue unir a experiência prática do negócio com o uso de tecnologia.
+- 🌱  Estou sempre estudando sobre **Desenvolvimento Back-End...**
+- 👨‍🎓  Graduado em Administração.
 
 
 <br>
 
-## 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Sql](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
-![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)&nbsp;
+<br>
+
+## Linguagens e ferramentas 🛠️
+
+[![Nodejs](https://img.shields.io/badge/-05122A?logo=node.js&logoColor=white)](https://nodejs.org/en)
+[![Typescript](https://img.shields.io/badge/-05122A?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Prisma](https://img.shields.io/badge/-05122A?logo=prisma&logoColor=white)](https://www.prisma.io/)
+[![Fastify](https://img.shields.io/badge/-05122A?logo=fastify&logoColor=white)](https://fastify.dev/)
+[![Linux](https://img.shields.io/badge/-05122A?logo=linux&logoColor=white)](https://www.linux.org)
+[![PostgreSQL](https://img.shields.io/badge/-05122A?logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![Docker](https://img.shields.io/badge/-05122A?logo=docker&logoColor=white)](https://www.docker.com)
 
 
 <br>
 <br>
 
-📬 Contact
+📬 Contato
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jeanrodovalho16@gmail.com)
-[![linked-in](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jeanlimarodovalho)
-<br>
+[![Linkedin](https://img.shields.io/badge/-05122A?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeanlimarodovalho)
+[![Gmail](https://img.shields.io/badge/-05122A?logo=gmail&logoColor=white)](mailto:jeanrodovalho16@gmail.com)
 <br>
 
 
