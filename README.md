@@ -4,7 +4,7 @@
 
 <!-- About -->
 
-🚀 Sobre
+## Sobre 🚀
 
 - 🔭  Atualmente trabalho como analista de PCP em [@UpBrasil](https://www.linkedin.com/company/up-brasil)
 -  :man_technologist:   Sou um profissional que consegue unir a experiência prática do negócio com o uso de tecnologia.
@@ -31,7 +31,7 @@
 <br>
 <br>
 
-📬 Contato
+## Contato 📬
 
 [![Linkedin](https://img.shields.io/badge/-05122A?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeanlimarodovalho)
 [![Gmail](https://img.shields.io/badge/-05122A?logo=gmail&logoColor=white)](mailto:jeanrodovalho16@gmail.com)
