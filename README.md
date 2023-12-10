@@ -1,4 +1,4 @@
-# Oi, me chamo Jean 👋
+# Olá, me chamo Jean 👋
 
 ### Sobre mim
 
@@ -6,8 +6,6 @@
 
 
 👩‍💻 Atualmente trabalho como analista de PCP em [@UpBrasil](https://www.linkedin.com/company/up-brasil)
-
-🌱  Estou estudando sobre **Desenvolvimento Front-End...**
 
 👨‍🎓  Graduado em Administração.
 
