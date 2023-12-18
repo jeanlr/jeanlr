@@ -2,36 +2,34 @@
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor Front-End
+- 💻 Sou Cientista de dados
+- 👨‍🎓 Sou graduado em Administração.
+- 👩‍💻 Atualmente trabalho como analista de PCP em [@UpBrasil](https://www.linkedin.com/company/up-brasil)
+
+<br/>
+
+### Habilidades
 
 
-👩‍💻 Atualmente trabalho como analista de PCP em [@UpBrasil](https://www.linkedin.com/company/up-brasil)
-
-👨‍🎓  Graduado em Administração.
-
-**Tecnologias e Ferramentas**
-
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- Python (scikit-learn, pandas, numpy, matplotlib, seaborn)
+- SQL
+- Machine Learning (Modelos supervisionados e não supervisionados)
+- Estatística descritiva e inferencial aplicada à análise de dados
+- Excel
 
 
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Microsoft SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=flat)
+![Microsoft Excel Badge](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=fff&style=plastic)
+
+
+<br/>
+<br/>
 
 <!--
 Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 -->
 
-### GitHub Stats ⚡
-<div>
-<a href="https://github.com/jeanlr">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanlr&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 ### Entre em contato comigo! 📭
 <div>
