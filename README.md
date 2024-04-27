@@ -11,7 +11,7 @@
 ### Habilidades
 
 
-- Python (scikit-learn, pandas, numpy, matplotlib, seaborn)
+- Python
 - SQL
 - Machine Learning (Modelos supervisionados e não supervisionados)
 - Estatística descritiva e inferencial aplicada à análise de dados
