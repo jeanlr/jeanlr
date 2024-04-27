@@ -4,7 +4,7 @@
 
 - 💻 Sou Cientista de dados
 - 👨‍🎓 Sou graduado em Administração.
-- 👩‍💻 Atualmente trabalho como analista de PCP em [@UpBrasil](https://www.linkedin.com/company/up-brasil)
+- 👩‍💻 Atualmente trabalho como Analista de Dados em [@UpBrasil](https://www.linkedin.com/company/up-brasil)
 
 <br/>
 
