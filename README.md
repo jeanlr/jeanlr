@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-- 💻 Sou Cientista de dados
+- 💻 Sou Analista de Dados | Inteligência de Negócios
 - 👨‍🎓 Sou graduado em Administração.
 - 👩‍💻 Atualmente trabalho como Analista de Dados em [@UpBrasil](https://www.linkedin.com/company/up-brasil)
 
@@ -13,8 +13,7 @@
 
 - Python
 - SQL
-- Machine Learning (Modelos supervisionados e não supervisionados)
-- Estatística descritiva e inferencial aplicada à análise de dados
+- Estatística
 - Excel
 
 
