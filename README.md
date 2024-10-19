@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-- 💻 Sou Analista de Dados | Inteligência de Negócios
+- 💻 Sou Cientista de Dados | Inteligência de Negócios
 - 👨‍🎓 Sou graduado em Administração.
 - 👩‍💻 Atualmente trabalho como Analista de Dados em [@UpBrasil](https://www.linkedin.com/company/up-brasil)
 
