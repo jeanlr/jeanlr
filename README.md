@@ -13,13 +13,10 @@
 
 - Python
 - SQL
+- Machine Learning
 - Estatística
-- Excel
-
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Microsoft SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=flat)
-![Microsoft Excel Badge](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=fff&style=plastic)
+- Análise de Dados
+- Inteligência de Negócios
 
 
 <br/>
