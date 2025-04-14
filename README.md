@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-- 💻 Sou Cientista de Dados | Inteligência de Negócios
+- 💻 Sou Engenheiro de Dados | Inteligência de Negócios
 - 👨‍🎓 Sou graduado em Administração.
 - 👩‍💻 Atualmente trabalho como Analista de Dados em [@UpBrasil](https://www.linkedin.com/company/up-brasil)
 
@@ -10,10 +10,15 @@
 
 ### Habilidades
 
-
+- Arquitetura de Dados
+- Processamento de Dados
+- Modelagem de Dados 
+- Orquestração de Pipelines
+- Versionamento, Testes e Deploy
 - Python
 - SQL
 - Machine Learning
+- GenAI
 - Estatística
 - Análise de Dados
 - Inteligência de Negócios
