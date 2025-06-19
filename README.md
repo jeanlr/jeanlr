@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-- 💻 Sou Analista de Dados | Inteligência de Negócios
+- 💻 Sou Engenheiro de Dados | Inteligência de Negócios
 - 👨‍🎓 Sou graduado em Administração.
 - 👩‍💻 Atualmente trabalho como Analista de Dados em [@UpBrasil](https://www.linkedin.com/company/up-brasil)
 
@@ -11,13 +11,13 @@
 ### Habilidades
 
 
-- Análise de Dados e Visualização: Extração de insights a partir de grandes volumes de dados e comunicação dos resultados através de visualizações.
-- Machine Learning: Desenvolvimento e implementação de modelos supervisionados e não supervisionados.
-- Feature Engineering: Criação e seleção de features relevantes para melhorar a performance dos modelos.
-- Python
-- SQL
-- Estatística
-- Inteligência de Negócios
+✔ Engenharia de Dados em Azure: Projeto e implementação de soluções em Azure Data Factory, Azure Databricks, Azure Data Lake Storage e Lakehouse.
+✔ Arquitetura Medallion: Organização de dados em camadas (Bronze, Silver, Gold) promovendo confiabilidade, rastreabilidade e eficiência.
+✔ Processamento de Big Data: Desenvolvimento de pipelines com PySpark, Spark SQL e Delta Lake para ETL/ELT eficiente.
+✔ Modelagem de dados: (OBTs, Star Schema, Conceitos de Fato/Dimensão, etc).
+✔ Automação: ADF pipelines, ADB workflows.
+✔ Monitoramento: Pipelines ADF, Databricks Data Quality.
+✔ Governança: Unity Catalog.
 
 
 <br/>
