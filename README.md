@@ -11,12 +11,12 @@
 ### Habilidades
 
 
-- Engenharia de Dados em Azure: Projeto e implementação de soluções em Azure Data Factory, Azure Databricks, Azure Data Lake Storage e Lakehouse.
+- Engenharia de Dados: Projeto e implementação de soluções em Databricks.
 - Arquitetura Medallion: Organização de dados em camadas (Bronze, Silver, Gold) promovendo confiabilidade, rastreabilidade e eficiência.
 - Processamento de Big Data: Desenvolvimento de pipelines com PySpark, Spark SQL e Delta Lake para ETL/ELT eficiente.
 - Modelagem de dados: (OBTs, Star Schema, Conceitos de Fato/Dimensão, etc).
-- Automação: ADF pipelines, ADB workflows.
-- Monitoramento: Pipelines ADF, Databricks Data Quality.
+- Automação: ADB workflows.
+- Monitoramento: Databricks Data Quality.
 - Governança: Unity Catalog.
 
 
