@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-- 💻 Sou Engenheiro de Dados | Inteligência de Negócios
+- 💻 Sou Cientista de Dados | Inteligência de Negócios
 - 👨‍🎓 Sou graduado em Administração.
 - 👩‍💻 Atualmente trabalho como Analista de Dados em [@UpBrasil](https://www.linkedin.com/company/up-brasil)
 
@@ -10,23 +10,16 @@
 
 ### Habilidades
 
-
-- Engenharia de Dados: Projeto e implementação de soluções em Databricks.
-- Arquitetura Medallion: Organização de dados em camadas (Bronze, Silver, Gold) promovendo confiabilidade, rastreabilidade e eficiência.
-- Processamento de Big Data: Desenvolvimento de pipelines com PySpark, Spark SQL e Delta Lake para ETL/ELT eficiente.
-- Modelagem de dados: (OBTs, Star Schema, Conceitos de Fato/Dimensão, etc).
-- Automação: ADB workflows.
-- Monitoramento: Databricks Data Quality.
-- Governança: Unity Catalog.
+- Machine Learning: Desenvolvimento e implementação de modelos supervisionados e não supervisionados.
+- Feature Engineering: Criação e seleção de features relevantes para melhorar a performance dos modelos.Add commentMore actions
+- Python
+- SQL
+- Estatística
+- Power BI
 
 
 <br/>
 <br/>
-
-<!--
-Substitua o usuário lbguilherme pelo seu usuário no GitHub.
--->
-
 
 ### Entre em contato comigo! 📭
 <div>
