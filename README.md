@@ -10,10 +10,12 @@
 
 ### Habilidades
 
-- Machine Learning: Desenvolvimento e implementação de modelos supervisionados e não supervisionados.
-- Feature Engineering: Criação e seleção de features relevantes para melhorar a performance dos modelos.Add commentMore actions
+- Análise de Dados
+- Machine Learning: Desenvolvimento e implementação de modelos supervisionados e não supervisionados
+- Feature Engineering: Criação e seleção de features relevantes para melhorar a performance dos modelos
 - Python
 - SQL
+- Spark
 - Estatística
 - Power BI
 
