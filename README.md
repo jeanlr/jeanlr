@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-- 💻 Sou Cientista de Dados | Inteligência de Negócios
+- 💻 Sou Engenheiro de Dados | Cientista de Dados 
 - 👨‍🎓 Sou graduado em Administração.
 - 👩‍💻 Atualmente trabalho como Analista de Dados em [@UpBrasil](https://www.linkedin.com/company/up-brasil)
 
@@ -10,12 +10,18 @@
 
 ### Habilidades
 
-- Análise de Dados
+
+- Modelagem de dados (fato e dimensão, camadas bronze/silver/gold)
+- Construção de pipelines de dados (ETL / ELT)
+- Processamento distribuído com Apache Spark (PySpark)
+- Manipulação e transformação de dados em larga escala
+- Integração de dados entre múltiplas fontes
 - Machine Learning: Desenvolvimento e implementação de modelos supervisionados e não supervisionados
-- Feature Engineering: Criação e seleção de features relevantes para melhorar a performance dos modelos
+- Book de variáveis: Contrução de variáveis de janela, primeira e segunda camada
 - Python
 - SQL
-- Spark
+- PySpark
+- Análise de Dados
 - Estatística
 - Power BI
 
