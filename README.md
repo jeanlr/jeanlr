@@ -2,9 +2,8 @@
 
 ### Sobre mim
 
-- 💻 Sou Engenheiro de Dados | Cientista de Dados 
+- 💻 Sou Cientista de Dados 
 - 👨‍🎓 Sou graduado em Administração.
-- 👩‍💻 Atualmente trabalho como Analista de Dados em [@UpBrasil](https://www.linkedin.com/company/up-brasil)
 
 <br/>
 
