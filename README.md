@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-- 💻 Sou Cientista de Dados 
+- 💻 Sou Cientista de Dados | Engenheiro de Dados
 - 👨‍🎓 Sou graduado em Administração.
 
 <br/>
